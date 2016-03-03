@@ -2,7 +2,9 @@ README
 
 Josh Graves 1896958
 Assignment 6
+Timing the different sorting algorithms to observe efficiency.
 
+References:
 http://www.cplusplus.com/forum/general/57571/
 
 http://stackoverflow.com/questions/2808398/easily-measure-elapsed-time
